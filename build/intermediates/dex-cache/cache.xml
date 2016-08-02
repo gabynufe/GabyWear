@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.0.2_3b0715052f2a2d2df0dc4bf8b6493ec9f36a1774\classes.dex" />
+    </item>
+    <item
+        jar="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.0.0_16b996c2237f4857a2fdff0c65de938a4196624f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Gaby\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.1_84f61b8e4fc6f11a1c9fe3a6396aa66e20838d0b\classes.dex" />
+    </item>
+    <item
+        jar="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_281a8b622d606fdf1b8b57cf911419d4a53cc668\classes.dex" />
+    </item>
+    <item
+        jar="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.0.2_808a82a51d53599ed3623e1baff3f0636d099c51\classes.dex" />
+    </item>
+    <item
+        jar="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.0.0_4f02de9f4a2b2f6343eee11feef025de8fb641d3\classes.dex" />
+    </item>
+    <item
+        jar="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.0.2_5473b7b6dc40cbba36640dfad25c880aa0ef86a5\classes.dex" />
+    </item>
+    <item
+        jar="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="cbe2151b0d9ae75dbbd01542b2cd37bf23cab997">
+        <dex dex="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_049a936305fd1e2934282196c2624f1ca8171eb6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Gaby\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.1.0\2de7cd8b95b7021b1d597f049bcb422055119f2c\retrofit-2.1.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.1.0_ac68639a2c60cc942d025bfc90b8a788ae3c355e\classes.dex" />
+    </item>
+    <item
+        jar="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\exploded-aar\com.android.support\design\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fc29308a7a8f6d4407b34634eb48fb8b817f9b23">
+        <dex dex="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.0.0_0b5640dd1ae8e24d3a6d14f704ddba4e8ba21777\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Gaby\.gradle\caches\modules-2\files-2.1\com.sun.mail\android-mail\1.5.5\53a2f927b235acb565dbe9314ececfb7e6d43020\android-mail-1.5.5.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="53a2f927b235acb565dbe9314ececfb7e6d43020">
+        <dex dex="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\transforms\dex\debug\folders\1000\10\android-mail-1.5.5_993767eb1b7f2ed97cd5065dc8f74aa9a375c1e3\classes.dex" />
+    </item>
+    <item
+        jar="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.0.0_ef82870ecb75389dcc44d370c4f07e88c3933095\classes.dex" />
+    </item>
+    <item
+        jar="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.0.0_d84d9aeeae58098b55f61d1cbb40bb5e64a2fea4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Gaby\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_6cd1305a8d59be4724bd3da6f67d0c552162e3ff\classes.dex" />
+    </item>
+    <item
+        jar="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\exploded-aar\com.mikhaellopez\circularimageview\3.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a8340f8c17337c864648c13abe1416d34c80ec14">
+        <dex dex="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.mikhaellopez-circularimageview-3.0.2_d1a1df828486ce9a026b1f9a5a74452345090a17\classes.dex" />
+    </item>
+    <item
+        jar="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.0.2_707f578ff4bbb0f31eeee277d52b3e46d8c3fe11\classes.dex" />
+    </item>
+    <item
+        jar="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.0.0_5011fe3875de39c9232d97ab6f2c56d837ce624e\classes.dex" />
+    </item>
+    <item
+        jar="D:\_ProyectosAndroid\GabyWear\app\libs\additionnal.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\transforms\dex\debug\folders\1000\2\additionnal_523a1890a857c6c1b3857a439d163c1f8f94de4f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Gaby\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.0.0\2943c74db6d4346ab8c6531adac91fa05c137c40\support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.0.0_c179549d9d45fa60b10f7226524af52fb1743fb4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Gaby\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.1.0\aa557d71ead91cbf26e0c316a0f593d168303309\converter-gson-2.1.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.1.0_6d4b9d74e002e58913a1bc4f0f70ea789f09dcb7\classes.dex" />
+    </item>
+    <item
+        jar="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-24.0.0_e728543d570c7af8f9724ae82147ef48c347b97d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Gaby\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\logging-interceptor\3.4.1\381fc1096ba65040d8e80ea43b2e1d9bad02345e\logging-interceptor-3.4.1.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="381fc1096ba65040d8e80ea43b2e1d9bad02345e">
+        <dex dex="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\transforms\dex\debug\folders\1000\10\logging-interceptor-3.4.1_6d5c94081d7afd2e10418cb6d364accdd6573065\classes.dex" />
+    </item>
+    <item
+        jar="D:\_ProyectosAndroid\GabyWear\app\libs\mail.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\transforms\dex\debug\folders\1000\2\mail_5bb5b2e6366e695551cf24209307cf2a1a4795ee\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Gaby\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_7fe24e85269ae84f33e8f7e2525ad32915eccdff\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Gaby\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_0f4c0a43519f0cd160fa73fdcc4164a89f9c8d71\classes.dex" />
+    </item>
+    <item
+        jar="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="5a24ac0871ef0e1d0dc8559a5fa3f3570da0b604">
+        <dex dex="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_976e68a8eace00128c2b1541b18dd5ca23622aa1\classes.dex" />
+    </item>
+    <item
+        jar="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.0.2_e570250f7a5abc38ffd4f2d7991869fec01cb6ee\classes.dex" />
+    </item>
+    <item
+        jar="D:\_ProyectosAndroid\GabyWear\app\libs\activation.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\transforms\dex\debug\folders\1000\2\activation_231f1e4745e6e3bcd0cdf1435985e7faced7a3ca\classes.dex" />
+    </item>
+    <item
+        jar="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.0.2_a120bc2e7ca9a07d734cd4fb7c757a821c3351a6\classes.dex" />
+    </item>
+    <item
+        jar="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.0.2_0a59c17817f0e3bfb03a0641ac7ffe4c8ef9a6d3\classes.dex" />
+    </item>
+    <item
+        jar="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f2774b1e02e5fbc524590311a744263c3b152d63">
+        <dex dex="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.0.2_26e353fb878857a090d58dd66e2e3f21f484cdfb\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Gaby\.gradle\caches\modules-2\files-2.1\com.sun.mail\android-activation\1.5.5\5442d5e05808145434b750c9f8a0c3f537383c5a\android-activation-1.5.5.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="5442d5e05808145434b750c9f8a0c3f537383c5a">
+        <dex dex="D:\_ProyectosAndroid\GabyWear\app\build\intermediates\transforms\dex\debug\folders\1000\10\android-activation-1.5.5_d87e73a12fadaca6bc4c203a39e8b1afa36c1220\classes.dex" />
+    </item>
+
+</items>

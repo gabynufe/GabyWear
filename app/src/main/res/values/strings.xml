@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Gaby Wear</string>
+    <string name="pnombre">Nombre de mascota</string>
+    <string name="pmegusta">Cuanto me gusta</string>
+    <string name="action_favorite">Ver los 5 favoritos</string>
+    <string name="fav5">Los 5 más gustados</string>
+    <string name="Contact">Contacto</string>
+    <string name="Acerca">Acerca de mi...</string>
+    <string name="mFavoritos">5 Favoritos</string>
+    <string name="mContacto">Contacto</string>
+    <string name="mAcerca">Acerca de</string>
+    <string name="mConfig">Configurar perfil</string>
+    <string name="mNotify">Recibir notificaciones</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_user_name">Nombre de usuario</string>
+    <string name="hint_email">Correo electrónico</string>
+    <string name="hint_mensaje">Mensaje</string>
+    <string name="err_msg_name">Captura un nombre</string>
+    <string name="err_msg_email">Captura una dirección de correo válida</string>
+    <string name="err_msg_mensaje">Captura el mensaje</string>
+    <string name="btn_enviar_comentario">Enviar Comentario</string>
+    <string name="btn_guardar_usuario">Guardar cuenta</string>
+
+    <string name="notify_follow">Seguir Usuario</string>
+    <string name="notify_me">Ver mi perfil</string>
+    <string name="notify_see">Ver usuario</string>
+</resources>

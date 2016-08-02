@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "237336845333",
+    "firebase_url": "https://gabywear-5bbf8.firebaseio.com",
+    "project_id": "gabywear-5bbf8",
+    "storage_bucket": "gabywear-5bbf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237336845333:android:9f7accb8cf015948",
+        "android_client_info": {
+          "package_name": "com.gendigital.gabywear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237336845333-282nimga562gihtkio1kmf7r0aa3qa10.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gendigital.gabywear",
+            "certificate_hash": "559FCEE6550EB8ECCE634339B652CD4A994B8090"
+          }
+        },
+        {
+          "client_id": "237336845333-0bhruimlk5jeer5gmc6t51766h3n7phn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoD81YhsxsEuivl0RGUzXNuVCB3L3LK-E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237336845333-0bhruimlk5jeer5gmc6t51766h3n7phn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

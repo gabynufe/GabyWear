@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.gendigital.gabywear">
+    
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/huellapet"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".actividad_principal.MainActivity" android:launchMode="singleTop">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <action android:name="SEGUIR_USUARIO"/>
+                <action android:name="VER_USUARIO"/>
+                <action android:name="MI_PERFIL"/>
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <meta-data
+            android:name="android.support.PARENT_ACTIVITY"
+            android:value=".actividad_principal.MainActivity"></meta-data>
+
+        <activity android:name=".actividad_contacto.ContactoActivity"></activity>
+        <activity android:name=".actividad_acerca.AcercaActivity"></activity>
+        <service
+            android:name=".actividad_principal.servicios_notificacion.NotificationService">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+            </intent-filter>
+        </service>
+        <service
+            android:name=".actividad_principal.servicios_notificacion.NotificacionTokenService">
+            <intent-filter>
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT"/>
+            </intent-filter>
+        </service>
+
+        <receiver android:name=".actividad_principal.AccionesNotify">
+            <intent-filter>
+                <action android:name="SEGUIR_USUARIO"/>
+                <action android:name="VER_USUARIO"/>
+                <action android:name="MI_PERFIL"/>
+            </intent-filter>
+        </receiver>
+
+    </application>
+
+</manifest>
